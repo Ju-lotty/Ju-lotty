@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ju-lotty
+- 👀 I’m interested in Android
+- 🌱 I’m currently learning Kotlin
