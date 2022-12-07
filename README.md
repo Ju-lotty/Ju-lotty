@@ -3,5 +3,7 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-#FFFFFF.svg?&style=for-the-badge&logo=Kotlin&logoColor=black)
 
+<a href="https://just-coding-record.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning Kotlin
