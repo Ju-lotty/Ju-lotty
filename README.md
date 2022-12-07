@@ -16,5 +16,4 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge]
-(http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://just-coding-record.tistory.com/)](https://just-coding-record.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://just-coding-record.tistory.com/)](https://just-coding-record.tistory.com/)
